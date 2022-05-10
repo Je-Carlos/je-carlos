@@ -1,4 +1,15 @@
-### Hi there 👋
+Olá, Sou Jean Carlos 😄
+
+## Sou um estudante e desenvolvedor!!
+- 🌱 Aperfeiçoando em Javascript/frameworks 
+- 🥅 Planos 2022: Me tornar um desenvolvedor Junior 
+
+### Conecte comigo:
+<div>
+  
+  <a href="gram.com/jean.cotillo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="kedin.com/in/jean-carlos-berg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ![snake gif](https://github.com/Je-Carlos/Je-Carlos/blob/output/github-contribution-grid-snake.gif)
 <!--
