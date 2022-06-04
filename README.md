@@ -1,7 +1,7 @@
 Olá, Sou Jean Carlos 😄
 
 ## Sou um estudante e desenvolvedor!!
-- 🌱 Aperfeiçoando em Javascript/frameworks 
+- 🌱 Aperfeiçoando em Javascript/React
 - 🥅 Planos 2022: Me tornar um desenvolvedor Junior 
 #
 <div align="center">
