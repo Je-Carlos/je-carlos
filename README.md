@@ -1,9 +1,19 @@
-Olá, Sou Jean Carlos 😄
+### Seja Bem-Vindo(a) 🖐🏻
+**Obrigado por visitar meu perfil, é prazer você estar aqui 😁**
 
-## Sou um estudante e desenvolvedor!!
-- 🌱 JavaScript/React/Node
-- ✅ Planos 2022: Me tornar um desenvolvedor Junior ✅
-- 🥅 Planos 2023: Estar trabalhando na área de Desenvolvimento
+```diff
+< Jean 'Je-Carlos' 🔥
+< Planos 2023: Estar trabalhando na área de Desenvolvimento
+
+> Conversa sobre tech e aleatoriedades;
+> Sempre estudando e aprendendo.
+
+
+! ‍desenvolvedor de software
+! apaixonado por front-end e desenvolvimento
+
+```
+
 #
 <div align="center">
   <a href="https://github.com/Je-Carlos">
@@ -20,14 +30,15 @@ Olá, Sou Jean Carlos 😄
   </div>
   
  # 
+ #### 🔗 Me encontre
 <div>
-  
   <a href="https://www.instagram.com/jean.cotillo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jean-carlos-berg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/IhateGhibli" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://linktr.ee/jeecarlos" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </div>
 
+#
 ![snake gif](https://github.com/Je-Carlos/Je-Carlos/blob/output/github-contribution-grid-snake.gif)
-<!--
-**Je-Carlos/je-carlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
