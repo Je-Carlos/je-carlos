@@ -39,6 +39,6 @@
 </div>
 
 #
-![snake gif](https://github.com/Je-Carlos/Je-Carlos/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
