@@ -3,7 +3,7 @@
 
 ```diff
 < Jean 'Je-Carlos' 🔥
-< Planos 2023: Estar trabalhando na área de Desenvolvimento
+< Planos 2023: Estar trabalhando na área de Desenvolvimento ✅
 
 > Conversa sobre tech e aleatoriedades;
 > Sempre estudando e aprendendo.
