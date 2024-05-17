@@ -1,8 +1,8 @@
 ```diff
 < Jean 'Je-Carlos' 
 < Atualmente trabalhando como Analista de TI
-< Planos 2023: Estar trabalhando na área de Desenvolvimento ✅
-< Planos 2024: Focar em me tornar um dev backend ⏳
+< Planos 2023: Estar trabalhando na área de TI ✅
+< Planos 2024: Primeiro emprego como dev ⏳
 
 > Conversa sobre tech e aleatoriedades;
 > Sempre estudando e aprendendo.
