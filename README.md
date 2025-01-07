@@ -1,6 +1,6 @@
 ```diff
 < Jean Carlos 'Je-Carlos' 
-< IT Analyst
+< IT Analyst & Software Engineer
 
 > technology and randomness;
 > this is my journey of learning and researching my life's work;
